@@ -1,5 +1,8 @@
 # IterSim
 
+
+ [![DOI](https://zenodo.org/badge/92485470.svg)](https://zenodo.org/badge/latestdoi/92485470)
+
 # An Iterative Approach for the Global Estimation of Sentence Similarity
 
 ## Dependencies
